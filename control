@@ -1,9 +1,10 @@
-Package: me.jjolano.shadow
-Name: Shadow
+Package: acreson.shadow
+Name: Shadow 屏蔽越狱
 Depends: mobilesubstrate, ws.hbang.common, applist, preferenceloader
-Version: 2.0.13
+Version: 2.0.14
 Architecture: iphoneos-arm
-Description: A lightweight general jailbreak detection bypass.
+Description:一个轻量级的通用越狱检测旁路。
 Maintainer: jjolano
 Author: jjolano
-Section: Tweaks
+Section: Acreson-插件(Tweaks)
+Icon: file:///Applications/Cydia.app/Sections/Tweaks.png
